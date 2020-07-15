@@ -10,6 +10,6 @@ I'm Pedro Henrique.
 Developer :computer:
 
 - :rocket: Looking for new **challenges**
-- :purple_heart: learning
+- :purple_heart: Team work
 - :computer: ReactJS, Node, React Native, Typescript
 - 💬 Ask me about: tech, games, movies
